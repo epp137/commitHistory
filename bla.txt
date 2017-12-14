@@ -11,3 +11,4 @@
 #B:	subCommit2#2
 #C:	subCommit2#3
 #D:	subCommit2#4
+#E:	subCommit2#5
