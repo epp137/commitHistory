@@ -1,4 +1,8 @@
 #1:	init
 #2:	commit#1
+#A: subCommit#1
+#B: subCommit#2
+#C: subCommit#3
 #3:	commit#2
 #4:	commit#3
+#D: subCommit#4
