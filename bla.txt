@@ -2,3 +2,4 @@
 #2:	commit#1
 #A: subCommit#1
 #B: subCommit#2
+#C: subCommit#3
