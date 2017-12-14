@@ -1,2 +1,2 @@
-#1: init
-
+#1:	init
+#2:	commit#1
