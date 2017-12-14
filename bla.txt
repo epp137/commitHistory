@@ -6,3 +6,5 @@
 #3:	commit#2
 #4:	commit#3
 #D: subCommit#4
+---
+#A:	subCommit2#1
